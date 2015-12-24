@@ -37,6 +37,8 @@ public class QuadraticEquation {
      * Ввод коэффициентов с консоли или из командной строки
      *
      * @param args Аргументы командной строки, например: java QuadraticEquation 1.0 -2.0 1.0
+     *
+     *   Для сборки необходим maven          
      */
     public static void main(String[] args) {
         double a, b, c;

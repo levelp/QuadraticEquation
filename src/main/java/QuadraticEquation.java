@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Квадратное уравнение
- * Версия 2.1
+ * Версия 2.2
  */
 public class QuadraticEquation {
     public static final double EPS = 1e-10;

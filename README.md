@@ -1,6 +1,9 @@
 Решение квадратного уравнения на Java
 =====================================
 
+[![Build Status](https://travis-ci.org/levelp/QuadraticEquation.svg?branch=master)](https://travis-ci.org/levelp/QuadraticEquation)
+[![Coverage Status](https://coveralls.io/repos/github/levelp/QuadraticEquation/badge.svg?branch=master)](https://coveralls.io/github/levelp/QuadraticEquation?branch=master)
+
 ax^2 + bx + c = 0
 
 * Вводим с клавиатуры или из файла коэффициенты: **a**, **b** и **c**
